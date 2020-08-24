@@ -1,6 +1,6 @@
 
 locals {
-  http_port    = 80
+  http_port    = 81
   any_port     = 80
   any_protocol = "-1"
   tcp_protocol = "tcp"
